@@ -2,4 +2,7 @@
 idle incremental game 
 
 Project by:
-lucasvander
+Lucas Vandermaarel
+.
+.
+.
