@@ -2,10 +2,10 @@
 idle incremental game 
 
 Project by:
-Lucas Vandermaarel
-Chris Russell
-Tyson Vo
-.
+Lucas Vandermaarel - Project Manager
+Chris Russell - Official position to be determined
+Tyson Vo - Official position to be determined
+. - Member to be determined
 
 Idea by Lucas
 Idea:
@@ -17,3 +17,5 @@ Idea:
   The extra/bonus currency is very rewarding at the start of the game, but later on when the user has played for a while, the bonus is not as rewarding. Ex. At the start when the user is making 100 currency per second, a shooting star would reward something like 10 000 gold. Later on, when the user is making 20 000 currency per second, a shooting star would reward something like 60 000 currency. So, instead of a bonus increase of 100x gold, it would be only a 3x increase in gold.
   
   
+This is crucial. The whole game will revolve around this:
+  After every time the user buys an upgrade, the upgrade price would be multiplied based on an exponential function. So would the speed and currency per second. 
