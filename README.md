@@ -19,3 +19,7 @@ Idea:
   
 This is crucial. The whole game will revolve around this:
   After every time the user buys an upgrade, the upgrade price would be multiplied based on an exponential function. So would the speed and currency per second. 
+
+IDEA BOX
+-After some ammount of time maybe the ship could discover planets or something, you could name them and maybe get bonus resources.
+-add some upgrades that cost certain types of recourses not just currency. 
