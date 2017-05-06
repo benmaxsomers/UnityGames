@@ -22,4 +22,4 @@ This is crucial. The whole game will revolve around this:
 
 IDEA BOX
 -After some ammount of time maybe the ship could discover planets or something, you could name them and maybe get bonus resources.
--add some upgrades that cost certain types of recourses not just currency. 
+-add some upgrades that cost certain types of recourses not just currency. **both good ideas to implement into the game
