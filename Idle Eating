@@ -1,0 +1,18 @@
+Sizes of food
+  Milligram mg
+  centigram cg = 10 milligrams
+  decigram dg = 10 centigrams
+  gram g = 10 decigrams           -- where the scaling actually starts, 1000 milligrams, 100 centigrams, 10 decigrams
+  dekagram dag = 10 grams
+  hectagram hg = 10 dekagrams
+  kilogram kg = 10 hectagrams
+  tonne t = 1000 kg
+  megatonne mt = 1000 kg (not accurate, but for the sake of the apps incremental system, we need it to be 1000 not 1 million)
+  gigatonne gt = 1000 mt (also not accurate)
+  kilotonne kt = 1000 kt (^)
+  
+      Each measurement will have a visual of an object that is relative to the corresponding measurement
+  
+  
+Ascension system
+  
