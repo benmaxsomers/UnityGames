@@ -1,4 +1,4 @@
-# idle
+# Rocket Idle Incremental Game
 idle incremental game 
 
 Project by:
